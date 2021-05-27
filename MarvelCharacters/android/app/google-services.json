@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1023086440398",
+    "project_id": "marvelcharacters-109e0",
+    "storage_bucket": "marvelcharacters-109e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023086440398:android:ad53c927df33b7265bc59f",
+        "android_client_info": {
+          "package_name": "com.marvelcharacters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023086440398-2k0t7oc0ofdm0ftebodudej8naa5265v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8egTSUaoYqa02FQkGUbCCwNnwR32P-r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023086440398-2k0t7oc0ofdm0ftebodudej8naa5265v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023086440398-neu2vabm7r3laarubnmevius9pn6j8m1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marvelcharacters"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
